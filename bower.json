@@ -11,6 +11,7 @@
   "location": "git://github.com/zeroclipboard/zeroclipboard.git",
   "ignore": [
     "*",
+    "!/bower.json",
     "!/dist/**"
   ]
 }
