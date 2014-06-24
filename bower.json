@@ -10,20 +10,7 @@
   "repository": {"type":"git","url":"https://github.com/zeroclipboard/zeroclipboard.git"},
   "location": "git://github.com/zeroclipboard/zeroclipboard.git",
   "ignore": [
-    ".gitignore",
-    ".jshintrc",
-    ".npmignore",
-    ".spmignore",
-    ".travis.yml",
-    "CONTRIBUTING.md",
-    "Gruntfile.js",
-    "LICENSE",
-    "README.md",
-    "composer.json",
-    "docs/",
-    "index.js",
-    "package.json",
-    "src/",
-    "test/"
+    "*",
+    "!/dist/**"
   ]
 }
